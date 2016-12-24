@@ -1,0 +1,6 @@
+{
+  "name": "Image Utils",
+  "description": "Provides some handy image utilities",
+  "version": "1.0",
+  "core": "4.x"
+}
